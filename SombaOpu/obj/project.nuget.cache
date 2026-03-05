@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pbMaqXr8tbw=",
+  "dgSpecHash": "1fQuBDS/otI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\erwin\\source\\GitHub\\SombaOpu\\SombaOpu\\SombaOpu.csproj",
+  "projectFilePath": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\SombaOpu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erwin\\.nuget\\packages\\google.apis\\1.73.0\\google.apis.1.73.0.nupkg.sha512",
     "C:\\Users\\erwin\\.nuget\\packages\\google.apis.auth\\1.73.0\\google.apis.auth.1.73.0.nupkg.sha512",

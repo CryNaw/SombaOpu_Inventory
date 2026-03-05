@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erwin\\source\\GitHub\\SombaOpu\\SombaOpu\\SombaOpu.csproj": {}
+    "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\SombaOpu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erwin\\source\\GitHub\\SombaOpu\\SombaOpu\\SombaOpu.csproj": {
+    "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\SombaOpu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erwin\\source\\GitHub\\SombaOpu\\SombaOpu\\SombaOpu.csproj",
+        "projectUniqueName": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\SombaOpu.csproj",
         "projectName": "SombaOpu",
-        "projectPath": "C:\\Users\\erwin\\source\\GitHub\\SombaOpu\\SombaOpu\\SombaOpu.csproj",
+        "projectPath": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\SombaOpu.csproj",
         "packagesPath": "C:\\Users\\erwin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erwin\\source\\GitHub\\SombaOpu\\SombaOpu\\obj\\",
+        "outputPath": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
