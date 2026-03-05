@@ -10,6 +10,7 @@ namespace SombaOpu
     public static class ConfigLoader
     {
         private static readonly string AppConfigPath = "Credential/app-config.json";
+        private static readonly string APIKeyConfigPath = "Credential/erwin-355300-e1153ddcf7c5.json";
         public static AppConfig Load()
         {            
             //Load 
@@ -71,6 +72,18 @@ namespace SombaOpu
         {
             if (File.Exists(AppConfigPath))
             {                
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public static bool isAPIKeyConfig()
+        {
+            if (File.Exists(APIKeyConfigPath))
+            {
                 return true;
             }
             else

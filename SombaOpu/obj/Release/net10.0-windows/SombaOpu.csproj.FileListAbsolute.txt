@@ -177,3 +177,9 @@ C:\Users\erwin\GitHub\SombaOpu_Inventory\SombaOpu\obj\Release\net10.0-windows\So
 C:\Users\erwin\GitHub\SombaOpu_Inventory\SombaOpu\obj\Release\net10.0-windows\SombaOpu.dll
 C:\Users\erwin\GitHub\SombaOpu_Inventory\SombaOpu\obj\Release\net10.0-windows\refint\SombaOpu.dll
 C:\Users\erwin\GitHub\SombaOpu_Inventory\SombaOpu\obj\Release\net10.0-windows\SombaOpu.pdb
+C:\Users\erwin\GitHub\SombaOpu_Inventory\SombaOpu\bin\Release\net10.0-windows\SombaOpu.deps.json
+C:\Users\erwin\GitHub\SombaOpu_Inventory\SombaOpu\bin\Release\net10.0-windows\SombaOpu.runtimeconfig.json
+C:\Users\erwin\GitHub\SombaOpu_Inventory\SombaOpu\bin\Release\net10.0-windows\SombaOpu.dll
+C:\Users\erwin\GitHub\SombaOpu_Inventory\SombaOpu\bin\Release\net10.0-windows\SombaOpu.pdb
+C:\Users\erwin\GitHub\SombaOpu_Inventory\SombaOpu\obj\Release\net10.0-windows\SombaOpu.genruntimeconfig.cache
+C:\Users\erwin\GitHub\SombaOpu_Inventory\SombaOpu\obj\Release\net10.0-windows\ref\SombaOpu.dll

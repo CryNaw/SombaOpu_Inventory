@@ -36,6 +36,14 @@ namespace SombaOpu
                 return;
             }
 
+            if(!ConfigLoader.isAPIKeyConfig())
+            {
+                // App cannot run without this file.                                
+                MessageBox.Show("API Key file not found. Please ensure 'erwin-355300-e1153ddcf7c5.json' exists in the 'Credential' folder.", "Config Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Application.Current.Shutdown();
+                return;
+            }
+
             base.OnStartup(e);
         }
 

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|c:\\users\\erwin\\github\\sombaopu_inventory\\sombaopu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|solutionrelative:sombaopu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|c:\\users\\erwin\\github\\sombaopu_inventory\\sombaopu\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|solutionrelative:sombaopu\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|c:\\users\\erwin\\github\\sombaopu_inventory\\sombaopu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|solutionrelative:sombaopu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|c:\\users\\erwin\\github\\sombaopu_inventory\\sombaopu\\configloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|solutionrelative:sombaopu\\configloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|c:\\users\\erwin\\github\\sombaopu_inventory\\sombaopu\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|solutionrelative:sombaopu\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|c:\\users\\erwin\\github\\sombaopu_inventory\\sombaopu\\configloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|solutionrelative:sombaopu\\configloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|c:\\users\\erwin\\github\\sombaopu_inventory\\sombaopu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|solutionrelative:sombaopu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|c:\\users\\erwin\\github\\sombaopu_inventory\\sombaopu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E52F1765-583C-469D-BFC8-1B219B472ACC}|SombaOpu\\SombaOpu.csproj|solutionrelative:sombaopu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +30,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SombaOpu\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\App.xaml.cs",
+              "RelativeToolTip": "SombaOpu\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:50:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ConfigLoader.cs",
               "DocumentMoniker": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\ConfigLoader.cs",
               "RelativeDocumentMoniker": "SombaOpu\\ConfigLoader.cs",
               "ToolTip": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\ConfigLoader.cs",
               "RelativeToolTip": "SombaOpu\\ConfigLoader.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T03:07:47.028Z"
+              "WhenOpened": "2026-03-03T03:07:47.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,13 +66,14 @@
               "RelativeDocumentMoniker": "SombaOpu\\SQLHelper.cs",
               "ToolTip": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\SQLHelper.cs",
               "RelativeToolTip": "SombaOpu\\SQLHelper.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwKcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFoAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T01:20:16.924Z"
+              "WhenOpened": "2026-03-03T01:20:16.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SombaOpu\\MainWindow.xaml",
@@ -65,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SombaOpu\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\erwin\\GitHub\\SombaOpu_Inventory\\SombaOpu\\MainWindow.xaml.cs",
               "RelativeToolTip": "SombaOpu\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAQBAAAAAAAAAAAqwBMBAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAYwOsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T03:11:05.945Z",
               "EditorCaption": ""
