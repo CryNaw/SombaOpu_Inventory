@@ -1,6 +1,6 @@
 # SombaOpu_Inventory
 
-![SombaOpu_Inventory](https://github.com/user-attachments/assets/2c956ae9-e9bb-4e67-81d5-389fb052f689)
+![SombaOpu_Inventory](https://github.com/user-attachments/assets/10b5ee2c-2735-446a-ba0d-582aab17d0d7)  
 
 📌 Project Overview  
 A custom-built WPF application designed to automate the weighing and logging process. It interfaces directly with digital scales via COM ports, handles sequential task automation, and syncs data to Google Sheets via API.
